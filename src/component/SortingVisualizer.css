@@ -1,0 +1,41 @@
+.array-bar{
+    background-color: aqua;
+    color: blue;
+    display: inline-block;
+    margin : 10px 1px;
+}
+
+.array-box {
+    position: absolute;
+    left : 10px;
+    width: 1250px;
+    height:500px;
+}
+.button-box{
+    position: relative;
+    margin : 30px 10px 10px 10px;
+    background-color: black;
+}
+.button-animation{
+    width: 150px;
+    height : 30px;
+    margin : 10px 0px 10px 10px;
+    display: inline-block;
+    background-color: cornflowerblue;
+    border-radius: 10px ;
+}
+.input-box{
+    position: relative;
+    background-color: cyan;
+    color: darkblue;
+    width: 300px;
+    margin : 10px 0px 10px 0px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.input-text{
+    width: 40px;
+    text-align: center;
+    background-color: aquamarine;
+    margin : 10px 10px 10px 10px;
+}
